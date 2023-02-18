@@ -1,0 +1,27 @@
+{
+  "port": 4005,
+  "pythonPort": 4007,
+  "publicDir": "dist/app",
+  "pages": {
+    "/": {
+      "name": "Home"
+    },
+    "/about": {
+      "name": "about"
+    },
+    "/menu": {
+      "name": "menu"
+    },
+    "/product": {
+      "name": "product"
+    },
+    "/extra": {
+      "name": "extra"
+    }
+  },
+  "publicUrlAssetMap": {
+    "/app-assets": "../assets"
+  },
+  "organizationName": "Atri-Apps",
+  "projectName": "restaurant_website"
+}
